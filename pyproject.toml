@@ -2,7 +2,7 @@
 name = "get-pubmed-papers"
 version = "0.1.0"
 description = "A command-line tool that fetches PubMed papers with company-affiliated authors."
-authors = ["Your Name <you@example.com>"]
+authors = ["Aswin Kumar aswinkumarbg203@gmail.com"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
